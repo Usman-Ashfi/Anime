@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+  * {
+    font-family: 'Poppins', sans-serif;
+    color: white;
+  }
+  ::-webkit-scrollbar{
+    display: none;
+  }
+  body {
+    background-image: linear-gradient(
+      111.4deg,
+      rgba(7, 7, 9, 1) 6.5%,
+      rgb(12, 38, 79) 93.2%
+    );
+  }

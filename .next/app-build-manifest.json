@@ -1,0 +1,22 @@
+{
+  "pages": {
+    "/blogs/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/blogs/page.css",
+      "static/chunks/app/blogs/page.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
+    ],
+    "/blogs/blogsadd/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/blogs/blogsadd/page.css",
+      "static/chunks/app/blogs/blogsadd/page.js"
+    ]
+  }
+}

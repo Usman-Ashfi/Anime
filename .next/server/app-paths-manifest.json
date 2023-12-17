@@ -1,0 +1,5 @@
+{
+  "/blogs/page": "app/blogs/page.js",
+  "/blogs/blogsadd/page": "app/blogs/blogsadd/page.js",
+  "/api/blogs/route": "app/api/blogs/route.js"
+}
